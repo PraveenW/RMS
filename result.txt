@@ -1,0 +1,12 @@
+runrms script run started on Sun Apr 12 19:18:07 2015
+run on machine eecad44.engr.sjsu.edu
+
+Run with a clock period of 4.0
+student names
+  Praveen  9257
+options syn False gates False
+VCS simulation worked
+NCverilog simulation worked
+Synthesis finished OK
+Gate level simulation worked
+Completed the rms run
